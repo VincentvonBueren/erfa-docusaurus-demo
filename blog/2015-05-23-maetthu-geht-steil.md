@@ -18,10 +18,10 @@ Der Clou: Während andere ERFA-Leiter Budget verballern, **verdient Matthäus so
 
 **Agenda Highlights:**
 
-* 07:00: "Daily Stand-up" (auf dem Grat)
-* 10:30: Jira-Sync in der Gletscherspalte
-* 14:00: Abseilen mit Value Stream Mapping
-* 17:00: Retro bei Kaiserschmarrn & Lawinenkunde
+- 07:00: "Daily Stand-up" (auf dem Grat)
+- 10:30: Jira-Sync in der Gletscherspalte
+- 14:00: Abseilen mit Value Stream Mapping
+- 17:00: Retro bei Kaiserschmarrn & Lawinenkunde
 
 Teilnahmegebühr?
 Nur ein halber Monatslohn und ein unterzeichneter Haftungsausschluss.

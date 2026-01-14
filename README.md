@@ -11,7 +11,7 @@ It serves as a sandbox for experimenting with documentation structure, theming, 
 
 ```bash
 npm install
-````
+```
 
 > Requires **Node.js ≥ 18**.
 
@@ -71,4 +71,3 @@ Join the [Docusaurus Discord](https://discord.gg/docusaurus), browse the [commun
 ---
 
 🛠️ Built with ❤️ by ipt engineers.
-

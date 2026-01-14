@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -12,7 +12,6 @@ const config: Config = {
   // Set the production url of your site here
   url: 'https://docs.ipt.ch', // Replace with your actual docs site
   baseUrl: '/',
-
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -75,7 +74,7 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/VincentvonBueren/2025-05-erfa-docusaurus',
           label: 'GitHub',

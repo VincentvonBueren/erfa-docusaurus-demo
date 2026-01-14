@@ -1,0 +1,9 @@
+# Ignore ESLint files
+eslint.config.mjs
+eslint.config.js
+
+# Ignore directories
+node_modules/
+dist/
+build/
+*.min.js

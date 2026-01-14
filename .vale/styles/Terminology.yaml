@@ -1,0 +1,10 @@
+extends: substitution
+message: "Use '%s' instead of '%s'."
+level: error
+ignorecase: false
+
+
+# IMPORTANT: only apply to prose
+scope: text
+swap:
+  docusaurus: Docusaurus

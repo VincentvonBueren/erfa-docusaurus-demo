@@ -7,7 +7,7 @@ tags: [docusaurus]
 
 # 🧠 Von NixOS zu Notepad: Die Erleuchtung des Jakob Beckmann
 
-**Jakob Beckmann**, früher bekannt als der *Neo der Shells*, der *Meister der dotfiles*, der Typ, der sogar seinen Toaster mit Nix flasht – **hat losgelassen.**
+**Jakob Beckmann**, früher bekannt als der _Neo der Shells_, der _Meister der dotfiles_, der Typ, der sogar seinen Toaster mit Nix flasht – **hat losgelassen.**
 
 > „Ich dachte immer, Reproduzierbarkeit sei alles. Turns out: ChatGPT ist reproduzierbarer als meine Nix-Configs.“
 
@@ -18,14 +18,14 @@ Dann kam **GitHub Copilot**. Und **Vibe Codes**. Und plötzlich war da… **Flow
 
 Heute sieht man Jakob nicht mehr mit Tiling-Windows und pixelgenauen Polybar-Konfigurationen, sondern:
 
-* In **VS Code Web**,
-* mit aktiviertem **"Zen Mode"**
-* und einem ChatGPT-Fenster im Splitscreen, das jede Zeile absegnet wie ein himmlischer Linter.
+- In **VS Code Web**,
+- mit aktiviertem **"Zen Mode"**
+- und einem ChatGPT-Fenster im Splitscreen, das jede Zeile absegnet wie ein himmlischer Linter.
 
 Aber das ist nicht alles:
 
 > Er hat sein **LinkedIn aktualisiert**:
-> *„AI Evangelist | Prompt Craftsman | Keyboard Minimalist“*
+> _„AI Evangelist | Prompt Craftsman | Keyboard Minimalist“_
 
 In seinem neuesten **Blogartikel** erklärt er, wie man mit **Notepad + ChatGPT Plugin** Kubernetes-Cluster aufsetzt, Typescript-APIs baut und den Sinn des Lebens debuggt – alles in **monospaced Arial 10pt.**
 

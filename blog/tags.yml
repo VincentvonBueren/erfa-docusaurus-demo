@@ -8,7 +8,6 @@ hello:
   permalink: /hello
   description: Hello tag description
 
-
 ipt:
   label: ipt
   permalink: /ipt

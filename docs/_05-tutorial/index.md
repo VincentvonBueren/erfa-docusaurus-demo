@@ -47,7 +47,7 @@ Let’s learn how to make things look great!
 ## 🔍 A Closer Look
 
 This section contains an image and a styled table.
-````
+```
 
 ---
 
@@ -122,4 +122,4 @@ Done! Your table header now has a nice background color 🎨
 
 **Great job with finishing the tutorial!!!**
 
-Check out the other sites in the sitebar, to learn more about Docusaurus and Markdown!
+Check out the other sites in the sidebar, to learn more about Docusaurus and Markdown!

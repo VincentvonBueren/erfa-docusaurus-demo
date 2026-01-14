@@ -1,7 +1,6 @@
 {
-  "packages": [
-    "nodejs@20",
-  ],
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.6/.schema/devbox.schema.json",
+  "packages": ["git@latest", "nodejs@25.2.1", "vale@3.13.0", "prettier@3.6.2"],
   "shell": {
     "init_hook": [
       "echo '💡 Devbox ready! Run `npm install` to install dependencies.'",
@@ -9,8 +8,12 @@
       "echo '📦 Use `npm run build && npx serve build` for a production preview (search enabled)'"
     ]
   },
-  "services": {},
-  "devbox": {
-    "allowGlobal": true
+  "scripts": {
+    "install": "npm install",
+    "start": "npm run dev",
+    "dev": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "npx serve build",
+    "check-spelling": "vale ."
   }
 }
