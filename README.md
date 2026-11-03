@@ -63,6 +63,18 @@ To leave the Devbox shell:
 exit
 ```
 
+## 🤝 Contributing
+
+Contributions are welcome! To propose a change:
+
+1. Create a branch: `git checkout -b <type>/<short-description>` (e.g. `docs/fix-typo`)
+2. Make your changes and preview them with `npm run start`
+3. Run the linters before committing: `npx prettier --check .` and `npx eslint .`
+4. Commit using [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `docs:`, …)
+5. Push your branch and open a Pull Request
+
+---
+
 ## 💬 Community & Resources
 
 Looking for help or inspiration?
